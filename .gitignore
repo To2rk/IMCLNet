@@ -1,0 +1,10 @@
+*.pt
+*.gz
+*.pkl
+*.pyc
+*.json
+datasets/*
+models/*
+results/*
+*.pyc
+.DS_Store
